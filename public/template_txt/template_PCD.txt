@@ -1,0 +1,3 @@
+﻿${DV} được Chủ tịch UBND tỉnh giao xử lý đơn của ${GT} ${TEN}, ${DC} có nội dung ${ND}
+
+Thực hiện chỉ đạo của Chủ tịch UBND tỉnh, ${DV} chuyển đơn nêu trên đến ${DVLQ} để kiểm tra nội dung đơn nêu; làm rõ nội dung còn vướng mắc, giải quyết dứt điểm vụ việc, báo cáo kết quả giải quyết với Chủ tịch UBND tỉnh.

@@ -1,0 +1,18 @@
+
+.panel-home { padding: 10px; }
+.panel-home .panel-heading { background: #2b579a; color: #fff; text-transform: uppercase; font-weight: bold; }
+.panel-home .list-group-item { border: 0; text-align: justify; padding: 7px 15px; }
+.panel-home .list-group-item:before { font-family: FontAwesome,sans-serif; content: "\f105"; color: #2b5698; font-weight: bold; margin: 0 5px 0 -10px; }
+
+.panel-home a.list-group-item:hover,
+.panel-home a.list-group-item:active,
+.panel-home a.list-group-item:focus { background: darkgray; }
+
+.panel-home .panel-image img { width: 100%; height: auto; margin-bottom: 5px; /*border: 3px solid #ddd;*/ }
+
+.list-group { margin: 0; }
+.list-group-item { border-radius: 0; cursor: pointer; text-align: justify; padding: 5px 10px; }
+.list-group-item a { color: #000; text-decoration: none; }
+.list-group .active { background-color: transparent; }
+.list-group .active a { color: #fff; text-decoration: none; }
+.panel-heading{height: 37px}

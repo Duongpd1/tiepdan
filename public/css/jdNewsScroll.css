@@ -1,0 +1,7 @@
+.news-scroll { position: relative; overflow: hidden; padding: 0; }
+.news-scroll ul { position: relative; list-style-type: none; padding: 0; margin: 0; }
+.news-scroll ul li a { display: block; text-decoration: none; padding: 7px 15px; text-align: justify; color: #555 }
+.news-scroll ul li a:before { font-family: FontAwesome; content: "\f105"; color: #2b5698; font-weight: bold; margin: 0 5px 0 -10px; }
+.news-scroll ul li a:hover,
+.news-scroll ul li a:active,
+.news-scroll ul li a:focus { background: #fffbe6; }

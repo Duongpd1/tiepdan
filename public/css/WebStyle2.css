@@ -1,0 +1,31 @@
+#footer{
+    min-height: 80px;
+    clear: both;
+    /*border: 1px solid #CDCDCD;*/
+    /*background-color: #F8F8FF;*/
+    border-top: thick double #2b579a;
+    background-color: #2b579a;
+    color: #fff;
+}
+
+#footer .footer-left{
+    width: 463px;
+    min-height: 70px;
+    float: left;
+    font-style: italic;
+    font-size: 12px;
+    padding-left: 5px;
+    padding-top: 5px;
+    margin-left: 10px;
+    /*border: 1px solid #CDCDCD;*/
+}
+#footer .footer-right{
+    width: 450px;
+    min-height: 70px;
+    float: right;
+    font-style: italic;
+    font-size: 12px;
+    padding-right: 5px;
+    padding-top: 5px;
+    /*border: 1px solid #CDCDCD;*/
+}

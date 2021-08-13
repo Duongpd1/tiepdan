@@ -1,0 +1,2 @@
+﻿${DV} được Chủ tịch UBND tỉnh giao xử lý đơn của ${GT} ${TEN}, ${DC} có nội dung: ${ND}
+Nội dung ${GT} đề nghị giải quyết thuộc lĩnh vực dân sự, không thuộc thẩm quyền của cơ quan hành chính. ${DV} hướng dẫn ${GT} gửi đơn đến ${DVLQ} để được xem xét, thụ lý giải quyết theo quy định./.

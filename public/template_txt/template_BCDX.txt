@@ -1,0 +1,1 @@
+﻿${DV} nhận được đơn của ${GT} ${TEN}, ${DC} với nội dung như sau:${ND} 

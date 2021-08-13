@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9167d6c-5a0f-44c8-a97d-3ea2205e3fcc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeSonar_Ver01" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>postchitietdonthu</find>
+      <find>ChinhSuaChiTietDon</find>
+      <find>storedonthu</find>
+      <find>exportWord</find>
+      <find>GetName</find>
+      <find>danhSachHS</find>
+      <find>chitietdonthu</find>
+      <find>donKetThuc</find>
+      <find>numbDonThu</find>
+      <find>KETTHUC</find>
+      <find>$numbDonThu</find>
+      <find>lichsugiaoxuly</find>
+      <find>stor</find>
+      <find>donDangXuLy</find>
+      <find>group</find>
+      <find>lichsugiao</find>
+      <find>creatFile</find>
+      <find>ĐƠN ĐANG XỬ LÝ</find>
+      <find>doiTuongLienQuan2</find>
+      <find>chinhsuavanban</find>
+      <find>page_chinhsuavanban</find>
+      <find>donLienQuan</find>
+      <find>checkDonLienQuan</find>
+      <find>input</find>
+      <find>$vanBanTheoDon</find>
+      <find>themdanhsachtiepcongdan</find>
+      <find>page_themdanhsachtiepcongdan</find>
+      <find>chuTri</find>
+      <find>btn_them</find>
+      <find>soCV</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\xampp\TDDev_done\TDDev</dir>
+    </dirStrings>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="php artisan config:cache" />
+      <command text="php artisan serve" />
+      <command text="php composer require guzzlehttp/guzzle" />
+      <command text="php artisan config:cache" />
+      <command text="php artisan list" />
+      <command text="php artisan serve" />
+      <command text="php artisan list" />
+      <command text="php artisan make:model Model/TableModel NguoiDaiDienTable" />
+      <command text="php artisan make:model Model/TableModel/NguoiDaiDienTable" />
+      <command text="php artisan serve" />
+      <command text="php artisan config:cache" />
+      <command text="php artisan serve" />
+      <command text="php artisan list" />
+      <command text="ph artisan serve" />
+      <command text="php artisan serve" />
+      <command text="php artisan list" />
+      <command text="php artisan lít" />
+      <command text="php artisan list" />
+      <command text="php artisan serve" />
+      <command text="php artisan config:cache" />
+      <command text="php artisan serve" />
+      <command text="php artisan make:model Model/TableModel/LichSuGiaoXuLy" />
+      <command text="php artisan serve" />
+      <command text="php aritsan serve" />
+      <command text="php artisan serve" />
+    </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpexcel" />
+      <path value="$PROJECT_DIR$/vendor/phpexcel/phpexcel" />
+      <path value="$PROJECT_DIR$/vendor/fortawesome/font-awesome" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/common" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpword" />
+      <path value="$PROJECT_DIR$/vendor/pclzip/pclzip" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-validator" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectId" id="1wf2bqxXT3QlO2Og4N8Uwa8oLCE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="them&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/themdanhsachtiepcongdan.blade.php&#10;Mau&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Model/PageModel/MauDon.php&#10;VAn&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Model/TableModel/VanBanTable.php&#10;ChuyenVienController&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/Controllers/PageControllers/ChuyenVienController.php&#10;rou&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/routes.php&#10;themdanhsachtiepcongdan&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/themdanhsachtiepcongdan.blade.php&#10;rout&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/routes.php&#10;route&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/routes.php&#10;nghi&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Model/PageModel/NghiepVuPage.php&#10;chinhsuavan&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/chinhsuavanban.blade.php&#10;taodo&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/taodonthumoi.blade.php&#10;chitiet&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/chitietdonthu.blade.php&#10;Chuye&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/Controllers/PageControllers/ChuyenVienController.php&#10;noidung&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/noidungdonthu.blade.php&#10;chi&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/chitietdonthu.blade.php&#10;Don&#9;null&#9;null&#10;Chu&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/Controllers/PageControllers/ChuyenVienController.php&#10;DonVi&#9;null&#9;null&#10;accou&#9;null&#9;null&#10;Chuyen&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/Controllers/PageControllers/ChuyenVienController.php&#10;chuyen&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/Controllers/PageControllers/ChuyenVienController.php&#10;Ngh&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Model/PageModel/NghiepVuPage.php&#10;thongtin&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/tiepdan/thongtintiepdan.blade.php&#10;help&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php&#10;test&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/Controllers/TestController.php&#10;noi&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/noidungdonthu.blade.php&#10;Donthu&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Model/TableModel/DonThuTable.php&#10;chuy&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/Controllers/PageControllers/ChuyenVienController.php&#10;themdanhsa&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/themdanhsachtiepcongdan.blade.php&#10;themdanh&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/themdanhsachtiepcongdan.blade.php&#10;themtiep&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/themtiepcongdan.blade.php&#10;chit&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/chitietdonthu.blade.php&#10;taodonthum&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/taodonthumoi.blade.php&#10;t&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/Controllers/TestController.php&#10;donth&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Model/TableModel/DonThuTable.php&#10;Chi&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/chitietdonthu.blade.php&#10;te&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/Controllers/TestController.php&#10;Help&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php&#10;Noi&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/noidungdonthu.blade.php&#10;chiti&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/chitietdonthu.blade.php&#10;Com&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/composer.json&#10;auto&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/vendor/autoload.php&#10;tao&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/taodonthumoi.blade.php&#10;Con&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/Controllers/PageControllers/ChuyenVienController.php&#10;tes&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/app/Http/Controllers/TestController.php&#10;preview_vanban&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/chitietdonthu/preview_vanban.blade.php&#10;ba&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/tracuu/bang_ket_qua.blade.php&#10;tracu&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/tracuudonthu.blade.php&#10;tra&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/tracuu.blade.php&#10;linh&#9;FILE&#9;file://E:/xampp/TDDev_done/TDDev/resources/views/pages/qtdanhmuclinhvuc.blade.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\TDDev_done\TDDev\resources\views\pages" />
+      <recent name="D:\xampp\htdocs\TDDev2\resources\views\pages" />
+      <recent name="D:\xampp\htdocs\TDDev2\app\Model\TableModel" />
+      <recent name="D:\xampp\htdocs\TDDev2\app\Model\PageModel" />
+      <recent name="D:\xampp\htdocs\TDDev2\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\TDDev\public" />
+      <recent name="D:\xampp\htdocs\TDDev\public\css" />
+      <recent name="D:\xampp\htdocs\TDDemo\app\Http\Controllers\PageControllers" />
+      <recent name="D:\xampp\htdocs\TDDemo\app\Http\Controllers" />
+      <recent name="D:\xampp\htdocs\TDDemo\app\Model\TableModel" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Phan Dai Duong\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9167d6c-5a0f-44c8-a97d-3ea2205e3fcc" name="Default" comment="" />
+      <created>1465526480848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1465526480848</updated>
+      <workItem from="1515727032267" duration="54000" />
+      <workItem from="1515738539886" duration="45000" />
+      <workItem from="1517449204013" duration="460000" />
+      <workItem from="1523800760337" duration="1038000" />
+      <workItem from="1529732426630" duration="599000" />
+      <workItem from="1530023013955" duration="37000" />
+      <workItem from="1530671624790" duration="15843000" />
+      <workItem from="1530713631870" duration="3631000" />
+      <workItem from="1530758149172" duration="19180000" />
+      <workItem from="1531145365725" duration="7487000" />
+      <workItem from="1531319016732" duration="1379000" />
+      <workItem from="1531716040325" duration="599000" />
+      <workItem from="1531751761538" duration="4768000" />
+      <workItem from="1533522625474" duration="20498000" />
+      <workItem from="1533570382218" duration="8420000" />
+      <workItem from="1533605447410" duration="1747000" />
+      <workItem from="1533696823457" duration="2344000" />
+      <workItem from="1533782979242" duration="9877000" />
+      <workItem from="1533866944837" duration="3922000" />
+      <workItem from="1533900954100" duration="1335000" />
+      <workItem from="1533958338396" duration="3616000" />
+      <workItem from="1534212851330" duration="8882000" />
+      <workItem from="1534834523622" duration="2855000" />
+      <workItem from="1534861325404" duration="1504000" />
+      <workItem from="1534918067844" duration="9970000" />
+      <workItem from="1534952501853" duration="6144000" />
+      <workItem from="1534991947196" duration="14483000" />
+      <workItem from="1535075408199" duration="14311000" />
+      <workItem from="1535336657660" duration="5013000" />
+      <workItem from="1535342402020" duration="5051000" />
+      <workItem from="1535442533865" duration="1190000" />
+      <workItem from="1535859073293" duration="1934000" />
+      <workItem from="1535899465328" duration="5336000" />
+      <workItem from="1535945989741" duration="6542000" />
+      <workItem from="1535987037936" duration="2784000" />
+      <workItem from="1536543786615" duration="1858000" />
+      <workItem from="1536591108557" duration="1779000" />
+      <workItem from="1536629105143" duration="499000" />
+      <workItem from="1537070088310" duration="1707000" />
+      <workItem from="1537148356366" duration="139000" />
+      <workItem from="1537971862431" duration="7700000" />
+      <workItem from="1538011564994" duration="63000" />
+      <workItem from="1538063489444" duration="4200000" />
+      <workItem from="1538098444190" duration="180000" />
+      <workItem from="1538321550679" duration="4128000" />
+      <workItem from="1538356856337" duration="449000" />
+      <workItem from="1538405914100" duration="3647000" />
+      <workItem from="1539746909143" duration="731000" />
+      <workItem from="1541517140866" duration="1400000" />
+      <workItem from="1541572197199" duration="1777000" />
+      <workItem from="1541642623981" duration="950000" />
+      <workItem from="1542685536616" duration="229000" />
+      <workItem from="1543502775809" duration="1805000" />
+      <workItem from="1543542596947" duration="617000" />
+      <workItem from="1543588182160" duration="599000" />
+      <workItem from="1543643511358" duration="5159000" />
+      <workItem from="1543801902803" duration="53000" />
+      <workItem from="1543909671221" duration="5869000" />
+      <workItem from="1543936050276" duration="613000" />
+      <workItem from="1545320506279" duration="660000" />
+      <workItem from="1628835398115" duration="425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+</project>
